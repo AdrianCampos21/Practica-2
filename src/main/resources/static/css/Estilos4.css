@@ -1,0 +1,27 @@
+body{
+    
+    min-height: 100vh;
+    background: linear-gradient(rgba(5, 7, 12, 0.75), rgba(5, 7, 12, 0.75)),
+    url(https://bolavip.com/__export/1622584363636/sites/bolavip/img/2021/06/01/the-last-of-us-marlene-1622156762147_1920x1080.jpg_242310155.jpg) no-repeat center
+    center fixed;
+    background-size: cover;
+    background-position-y: 1%;
+}
+.padre{
+    font-family: fantasy;
+    background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5));
+    height: 200px;
+    
+    position: relative;
+    text-align: center;
+    width: 300px;
+    border-radius: 10%;
+}
+.padre p{
+    top: 2%;
+    font-size: 1rem;
+    position: absolute;
+    margin: 0;
+    padding: 0 1rem;
+    vertical-align: middle;
+}

@@ -1,0 +1,30 @@
+body{
+    
+    min-height: 100vh;
+    background: linear-gradient(rgba(5, 7, 12, 0.75), rgba(5, 7, 12, 0.75)),
+    url(https://images3.alphacoders.com/106/1065466.png) no-repeat center
+    center fixed;
+    background-size: cover;
+    background-position-y: 1%;
+    
+}
+
+.padre{
+    font-family: fantasy;
+    background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5));
+    height: 1000px;
+    margin: 2rem auto;
+    margin-left: 2rem;
+    position: relative;
+    text-align: center;
+    width: 1130px;
+    border-radius: 10%;
+}
+.padre p{
+    top: 2%;
+    font-size: 1rem;
+    position: absolute;
+    margin: 0;
+    padding: 0 1rem;
+    vertical-align: middle;
+}

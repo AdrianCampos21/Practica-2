@@ -1,0 +1,28 @@
+body{
+    
+    min-height: 100vh;
+    background: linear-gradient(rgba(5, 7, 12, 0.75), rgba(5, 7, 12, 0.75)),
+    url(https://e1.pxfuel.com/desktop-wallpaper/476/243/desktop-wallpaper-joel-the-last-of-us-remastered-ps4-horror-game-2014-tlou.jpg) no-repeat center
+    center fixed;
+    background-size: cover;
+}
+.padre{
+    font-family: fantasy;
+    background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5));
+    height: 300px;
+    margin: 2rem auto;
+    margin-left: 2rem;
+    position: relative;
+    text-align: center;
+    width: 300px;
+    border-radius: 10%;
+}
+.padre p{
+    top: 2%;
+    font-size: 1rem;
+    position: absolute;
+    margin: 0;
+    padding: 0 1rem;
+    vertical-align: middle;
+}
+
